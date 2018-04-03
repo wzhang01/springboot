@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>wzhr</groupId>
+    <artifactId>com.wzhr.springboot</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>springboot-cache</module>
+        <module>springboot-restful</module>
+        <module>springboot-amqp</module>
+        <module>springboot-gateway</module>
+        <module>springboot-jpa</module>
+        <module>springboot-tcc</module>
+        <module>springboot-ex</module>
+        <module>springboot-email</module>
+        <module>springboot-pay</module>
+        <module>springboot-storage</module>
+    </modules>
+
+
+</project>
